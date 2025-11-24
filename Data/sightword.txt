@@ -10,7 +10,7 @@ each
 
 for, find, first, from
 
-go, get. give
+go, get, give
 
 he, his, him, her, have, has, had, how
 
